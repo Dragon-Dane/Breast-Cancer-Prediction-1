@@ -8,13 +8,14 @@ This dataset was created by Dr. William, Nick Street and Olvi in University of W
 
 The data set contains 32 total variables, many of which we will use to predict the eventual malignant or benign category of each tumor suspected of cancer. For our project, we will investigate this clinical data set to examine how each variable relates to a patient’s diagnosis, and present our findings on how to better predict a patient’s diagnosis based on these variables. Our target variable is ‘Diagnosis’, which can take on one of two possible values, ‘Malignant’ (M), or Benign (B). The Predictor variables in our dataset are various measures of the patient’s tumor that is suspected of being cancerous.
 
-Our goal for this project is to build different classification models using Python (pandas, numpy, sklearn, matplotlib) and choose the best model based on various model evaluation matrices.  The data set we will be using contains a wide range of information relating to each patient’s tumor that is being tested, which we will then use to predict the likelihood of a malignant vs. benign diagnosis.
+Our goal for this project is to build different classification models using R and Python (pandas, numpy, sklearn, matplotlib) and choose the best model based on various model evaluation matrices.  The data set we will be using contains a wide range of information relating to each patient’s tumor that is being tested, which we will then use to predict the likelihood of a malignant vs. benign diagnosis.
 
 # RESOURCES
 
 - The detail of the process you can find in the project submission pdf file.
 - The dataset is named data.csv
-- The code file is named Cancer_Project_Script.py
+- The R code file is named Data_Preprocessing.R for data preparation steps
+- The Python code file is named Cancer_Project_Script.py for model building
 
 # FINAL MODEL
 
